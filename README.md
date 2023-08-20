@@ -1,7 +1,5 @@
 Repairing my great great grandpa's tube radio
 
-This project is still a work in progress...
-
 I received the radio in really bad condition because it had been packaged and shipped from Brazil to the USA. The circuit was broken, the wood had termites and was chipped, the fabric was ripped, the speaker was damaged, and the buttons did not work. 
 
 <img src="https://user-images.githubusercontent.com/69320369/212194215-aec0bbb9-9f6e-48b5-8ae7-3b40f1c04e6c.jpg" width="400" />
