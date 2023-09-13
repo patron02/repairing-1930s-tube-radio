@@ -16,6 +16,6 @@ The speaker had to be repaired and cleaned but the quality of sound was not very
 
 https://user-images.githubusercontent.com/69320369/212196168-14f9e4e0-59a8-4e10-b02d-82e086519a75.mp4
 
-The radio worked for a while but the capacitors need to be changed for new ones and I plan on installing an arduino add on to allow for bluetooth devices to be connected. It is very difficult to finish fixing the radio because the parts are very old and outdated, there is no schematic, and the broken parts must be custom designed and 3D printed. I will finish fixing it once I have gathered and bought all the necessary parts. For now it's a nice piece to have around the house.
+The radio is now working and I plan on installing an arduino add on to allow for bluetooth devices to be connected. This project was very difficult to finish because the parts are very old and outdated, there is no schematic, and the broken parts must be custom designed and 3D printed. There were also issues in overheating so a cooling system had to be installed. The speaker has a very noticeable static sound which can be fixed by getting a new amplifier and speaker, but I've chosen to leave it as is in order to preserve it. 
 
 <img src="https://user-images.githubusercontent.com/69320369/212196653-a067b2b4-bb27-4873-a10b-dc72b5ffc6ec.jpg" width="400" />
