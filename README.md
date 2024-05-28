@@ -12,14 +12,15 @@ https://user-images.githubusercontent.com/69320369/212196168-14f9e4e0-59a8-4e10-
 
 <img src="https://user-images.githubusercontent.com/69320369/212196653-a067b2b4-bb27-4873-a10b-dc72b5ffc6ec.jpg" width="400" />
 
-# Installing bluetooth module
+# Installing the bluetooth module
 
 Materials: 
 - 12S Class D Amplifier: https://www.adafruit.com/product/3006
-- RaspberryPi 3 B+: https://www.etechnophiles.com/raspberry-pi-3-gpio-pinout-pin-diagram-and-specs-in-detail-model-b/#input-output-pins
+- RaspberryPi 3 B+
 - 4 GB SD card
 - DPDT switch
-- micro SD cable 
+- micro SD cable
+- fan
 
 The rPi does not have amplification from the GPIO pins so the adafruit amplifier module had to be used. GPIO pin 21 will be connected to the DIN on the amplifier. Since there is only one speaker LDR is not necessary. The 5V and GND input will be connected to the corresponding rPi pins. The outputs on the amplifier will be connected to the DPDT switch side 1, the analog radio output will be connected to DPDT side 2, and the speaker input will be connected in the middle of the DPDT switch. 
 
@@ -30,22 +31,8 @@ Setup:
 - on a computer that is on the same network use cmd to run ssh pi@ip-address
 
 Programming: 
-- sudo apt update
-- sudo apt install bluez pulseaudio-module-bluetooth
-- sudo reboot
-- bluetoothctl
-- scan on
-- pair <MAC_address>
-  - Toggle off Prvate Address
-  - Settings -> Wifi -> info -> MAC Address
-- Edit the config file
-  - dtoverlay=pwm-2chan,pin=21,func=4
-  - sudo reboot
-- sudo apt install pavucontrol
-- pavucontrol
+- edit config file with IS2 protocol
 
-Testing: 
-aplay /path/to/audio/file.wav
 
 
 
