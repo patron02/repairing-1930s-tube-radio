@@ -27,22 +27,22 @@ Setup:
 - install raspbian on the SD card and plug into pi
 - connect to network and find IP address
 - open rpi terminal and run sudo raspi-config
-- on a computer that is on the same network use cmd to run ssh pi@192.168.1.100
+- on a computer that is on the same network use cmd to run ssh pi@ip-address
 
 Programming: 
-sudo apt update
-sudo apt install bluez pulseaudio-module-bluetooth
-sudo reboot
-bluetoothctl
-scan on
-pair <MAC_address>
-> Toggle off Prvate Address
-> Settings -> Wifi -> info -> MAC Address
-Edit the config file
-> dtoverlay=pwm-2chan,pin=21,func=4
-> sudo reboot
-sudo apt install pavucontrol
-pavucontrol
+- sudo apt update
+- sudo apt install bluez pulseaudio-module-bluetooth
+- sudo reboot
+- bluetoothctl
+- scan on
+- pair <MAC_address>
+  - Toggle off Prvate Address
+  - Settings -> Wifi -> info -> MAC Address
+- Edit the config file
+  - dtoverlay=pwm-2chan,pin=21,func=4
+  - sudo reboot
+- sudo apt install pavucontrol
+- pavucontrol
 
 Testing: 
 aplay /path/to/audio/file.wav
