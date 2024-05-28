@@ -32,8 +32,8 @@ Setup:
 
 Programming: 
 - edit config file with IS2 protocol
-- sudo nano /etc/systemd/system/fan_control.service (code to paste in files)
-- sudo nano /etc/systemd/system/bluetooth_audio.service
+- sudo nano /etc/systemd/system/fan_control.service (paste code in here)
+- sudo nano /etc/systemd/system/bluetooth_audio.service (paste code in here)
 - sudo systemctl daemon-reload
 - sudo systemctl enable bluetooth_audio.service
 - sudo systemctl enable fan_control.service
