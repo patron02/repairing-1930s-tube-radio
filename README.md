@@ -32,6 +32,9 @@ Setup:
 
 Programming: 
 - edit config file with IS2 protocol
+- sudo systemctl daemon-reload
+- sudo systemctl enable bluetooth_audio.service
+- sudo systemctl enable fan_control.service
 
 
 
