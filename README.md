@@ -36,6 +36,13 @@ Programming:
 - sudo systemctl enable bluetooth_audio.service
 - sudo systemctl enable fan_control.service
 
+  https://www.instructables.com/Raspberry-Pi-Bluetooth-Speaker/
+
+  Video:
+
+  # Fan Install
+  
+
 
 
 
