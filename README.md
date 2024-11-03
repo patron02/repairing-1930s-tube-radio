@@ -35,7 +35,7 @@ Many additional things had to be added to the bluetooth
 
 
 # Circuit Repair 
-Original Circuit: 
+Original Circuit: <br>
 <img src="https://github.com/user-attachments/assets/5833c737-99a5-4d7e-b264-ce57337919d8" height="300" />
 
 
