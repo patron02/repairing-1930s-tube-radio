@@ -41,7 +41,9 @@ Original Circuit: <br>
 ## Step 1: Discover what kind of vacuum tube radio it is
 
 References: <br>
-https://www.angelfire.com/electronic/funwithtubes/AA5-1.html
+https://www.angelfire.com/electronic/funwithtubes/AA5-1.html <br>
+https://www.duncanamps.com/technical/ltspice.html <br>
+
 
 
 
