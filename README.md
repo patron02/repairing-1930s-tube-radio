@@ -38,6 +38,10 @@ Many additional things had to be added to the bluetooth
 Original Circuit: <br>
 <img src="https://github.com/user-attachments/assets/5833c737-99a5-4d7e-b264-ce57337919d8" height="500" />
 
+## Step 1: Discover what kind of vacuum tube radio it is
+
+References: <br>
+https://www.angelfire.com/electronic/funwithtubes/AA5-1.html
 
 
 
