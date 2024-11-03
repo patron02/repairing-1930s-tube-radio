@@ -4,7 +4,7 @@ The end goal for this project is to repair the radio so that it is functional wh
 
 I received the radio in really bad condition because it had been packaged and shipped from Brazil to the USA. The circuit was broken, the wood had termites and was chipped, the speaker was damaged, and the knobs did not work. The first step was removing the termites and repairing the wood. 
 
-<img src="https://user-images.githubusercontent.com/69320369/212194215-aec0bbb9-9f6e-48b5-8ae7-3b40f1c04e6c.jpg" height="500" />  <img src="https://user-images.githubusercontent.com/69320369/212194839-070d1e12-a39d-41f0-9db2-2f0564185f9c.jpg" height="500" /> <img src="https://user-images.githubusercontent.com/69320369/212196653-a067b2b4-bb27-4873-a10b-dc72b5ffc6ec.jpg" height="500" />
+<img src="https://user-images.githubusercontent.com/69320369/212194215-aec0bbb9-9f6e-48b5-8ae7-3b40f1c04e6c.jpg" height="300" />  <img src="https://user-images.githubusercontent.com/69320369/212194839-070d1e12-a39d-41f0-9db2-2f0564185f9c.jpg" height="300" /> <img src="https://user-images.githubusercontent.com/69320369/212196653-a067b2b4-bb27-4873-a10b-dc72b5ffc6ec.jpg" height="300" />
 
 The glass on the radio had broken so we got some glass custom made and also replaced the fabric. 
 
