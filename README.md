@@ -31,10 +31,12 @@ Many additional things had to be added to the bluetooth
 - implementing bluetooth so it is not applicable for only 1 device
 - amplification
 
-Video: 
+<img src="https://github.com/user-attachments/assets/56819aab-b060-4d77-865c-5a99c160e49c" height="300" />
+
 
 # Circuit Repair 
-  
+Original Circuit: 
+<img src="https://github.com/user-attachments/assets/5833c737-99a5-4d7e-b264-ce57337919d8" height="300" />
 
 
 
